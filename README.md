@@ -10,6 +10,10 @@ To make the webpage more accessible by
 Changes were made to both the HTML and CSS code to provide better accessibility and to include a general reformation of the code base. 
 Although there were several classes that were identical in properties, I spoke to Sal Hobbi and it was decided to leave these as separate classes and not fold them into one to maintain the ability to later change each section individually. 
 
+## Link to GitHub Pages deployed page
+
+https://jd2929.github.io/ChallengeModuleOne/
+
 ## Screen Shot 
 
 Top of Page
